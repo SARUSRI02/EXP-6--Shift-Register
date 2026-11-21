@@ -26,7 +26,7 @@ Testbench Program
 
 
 
-
+```
 ## Operation / Truth Table
 
 Register contents after each active clock edge (sin sequence = 1, 0, 1, 1)
@@ -83,6 +83,7 @@ Q(next) = {Q[2:0], sin}
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected operation table.
 
 ## Output
+<img width="1920" height="1080" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/75b517df-fa5d-4643-869e-25f9fd962292" />
 
 
 
